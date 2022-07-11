@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" src="https://daniel-erhardt.vercel.app/api?username=DanielErhardt&show_icons=true&hide_border=true" alt="DanielErhardt's GitHub Stats"/>
+<!-- <img align="left" src="https://daniel-erhardt.vercel.app/api?username=DanielErhardt&show_icons=true&hide_border=true" alt="DanielErhardt's GitHub Stats"/> -->
