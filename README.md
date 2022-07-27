@@ -1,18 +1,43 @@
-### Hi there 👋
+# Olá! 👋 Sou Daniel
+## Um Desenvolvedor Web em formação.
+
++ Desenvolvedor Front-End
++ Desenvolvedor de Jogos Unity
+
+<br />
+
+## Minhas habilidades:
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,jest,redux)](https://skills.thijs.gg)
+<br />
+[![My Skills](https://skills.thijs.gg/icons?i=unity,cs)](https://skills.thijs.gg)
+
+<br />
+
+## Aprendendo:
+[![My Skills](https://skills.thijs.gg/icons?i=docker,mysql,typescript,nodejs)](https://skills.thijs.gg)
+
+<br />
 
 <!--
-**DanielErhardt/DanielErhardt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projetos em destaque:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanielErhardt&repo=react-recipes-app&theme=codeSTACKr&border_color=ffffff)](https://github.com/DanielErhardt/react-recipes-app)
 -->
 
-<!-- <span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielErhardt&show_icons=true&locale=en&layout=compact" alt="DanielErhardt's GitHub Stats"  width="400px" /></span> -->
+<br />
+
+## ⚙️ &nbsp;Estatísticas do Github
+
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielErhardt&show_icons=true&theme=vision-friendly-dark" alt="DanielErhardt' stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielErhardt&layout=compact&theme=vision-friendly-dark" alt="DanielErhardt' most languages"/>
+</p>
+
+<br />
+
+## 👨🏽‍🦲 &nbsp;Contatos
+
+<a href="https://www.linkedin.com/in/daniel-erhcardoso" target="_blank"><img src="https://img.shields.io/badge/-DanielErhardt-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:daniel.erhcardoso@gmail.com" >
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+</a>
