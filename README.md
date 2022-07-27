@@ -7,14 +7,16 @@
 <br />
 
 ## Minhas habilidades:
+#### Desenvolvimento Web
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,jest,redux)](https://skills.thijs.gg)
 <br />
+#### Desenvolvimento de Jogos
 [![My Skills](https://skills.thijs.gg/icons?i=unity,cs)](https://skills.thijs.gg)
 
 <br />
 
 ## Aprendendo:
-[![My Skills](https://skills.thijs.gg/icons?i=docker,mysql,typescript,nodejs)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=docker,mysql,typescript,nodejs,styledcomponents)](https://skills.thijs.gg)
 
 <br />
 
