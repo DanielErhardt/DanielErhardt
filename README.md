@@ -1,5 +1,4 @@
-# Olá! 👋 Sou Daniel
-## Um Desenvolvedor Web em formação.
+# 👋 Bem vindo ao meu GitHub
 
 + Desenvolvedor Front-End
 + Desenvolvedor de Jogos Unity
