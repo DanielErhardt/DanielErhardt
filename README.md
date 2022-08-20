@@ -35,7 +35,7 @@
 + Front-end Web Developer.
 + Unity Game Developer.
 + Back-end Web development student.
-+ Soon-to-be Fullstack Web Developer.
++ A soon-to-be Fullstack Web Developer.
 
 <a href="https://www.linkedin.com/in/daniel-erhcardoso" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:daniel.erhcardoso@gmail.com" >
