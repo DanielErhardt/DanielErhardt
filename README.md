@@ -2,7 +2,7 @@
 
 + Desenvolvedor Front-End.
 + Desenvolvedor de Jogos Unity.
-+ Estudante de desenvovimento Full Stack.
++ Estudante de desenvovimento web Full Stack.
 
 <br />
 
@@ -10,19 +10,13 @@
 <a href = "mailto:daniel.erhcardoso@gmail.com" >
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
 </a>
-
-<br/>
-
-## Minhas habilidades:
-#### Desenvolvimento Web
+### Desenvolvimento Web
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,typescript,react,jest,redux)](https://skills.thijs.gg)
 <br />
-#### Desenvolvimento de Jogos
+### Desenvolvimento de Jogos
 [![My Skills](https://skills.thijs.gg/icons?i=unity,cs)](https://skills.thijs.gg)
-
 <br />
-
-## Aprendendo:
+### Aprendendo:
 [![My Skills](https://skills.thijs.gg/icons?i=docker,mysql,nodejs,styledcomponents)](https://skills.thijs.gg)
 
 <br />
