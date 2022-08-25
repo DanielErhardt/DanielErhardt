@@ -8,10 +8,6 @@
 + Estudante de desenvovimento Web Back-end.
 + Em breve, um desenvolvedor Fullstack.
 
-<a href="https://www.linkedin.com/in/daniel-erhcardoso" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:daniel.erhcardoso@gmail.com" >
-  <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-
 ### Desenvolvimento Web
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,typescript,react,jest,redux)](https://skills.thijs.gg)
 
@@ -36,11 +32,6 @@
 + Unity Game Developer.
 + Back-end Web development student.
 + A soon-to-be Fullstack Web Developer.
-
-<a href="https://www.linkedin.com/in/daniel-erhcardoso" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:daniel.erhcardoso@gmail.com" >
-  <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-</a>
 
 ### Web Development
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,typescript,react,jest,redux)](https://skills.thijs.gg)
