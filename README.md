@@ -3,11 +3,11 @@
 
 # 👋 Bem vindo ao meu GitHub
 
-+ Desenvolvedor Web Back-end.
++ Desenvolvedor Web Fullstack, me especializando em Backend.
 + Desenvolvedor de Jogos Unity.
 
 ### Desenvolvimento Web
-![My Skills](https://skills.thijs.gg/icons?i=html,css,js,typescript,react,jest,redux,docker,mysql,nodejs)
+![My Skills](https://skills.thijs.gg/icons?i=html,css,js,typescript,react,jest,redux,docker,mysql,nodejs,dotnet,cs)
 
 ### Desenvolvimento de Jogos
 ![My Skills](https://skills.thijs.gg/icons?i=unity,cs)
@@ -22,11 +22,11 @@
 
 # 👋 Welcome to my GitHub
 
-+ Back-end Web Developer.
++ Fullstack Web Developer, currently specializing in Backend.
 + Unity Game Developer.
 
 ### Web Development
-![My Skills](https://skills.thijs.gg/icons?i=html,css,js,typescript,react,jest,redux,docker,mysql,nodejs)
+![My Skills](https://skills.thijs.gg/icons?i=html,css,js,typescript,react,jest,redux,docker,mysql,nodejs,dotnet,cs)
 
 ### Game Development
 ![My Skills](https://skills.thijs.gg/icons?i=unity,cs)
