@@ -7,13 +7,10 @@
 + Desenvolvedor de Jogos Unity.
 
 ### Desenvolvimento Web
-![My Skills](https://skills.thijs.gg/icons?i=html,css,js,typescript,react,jest,redux,docker,mysql,nodejs,dotnet,cs)
+![My Skills](https://skills.thijs.gg/icons?i=html,css,js,typescript,react,jest,redux,docker,mysql,mongodb,nodejs,dotnet,cs)
 
 ### Desenvolvimento de Jogos
 ![My Skills](https://skills.thijs.gg/icons?i=unity,cs)
-
-### Aprendendo
-![My Skills](https://skills.thijs.gg/icons?i=mongodb,sass)
 
 </details>
 
@@ -26,13 +23,10 @@
 + Unity Game Developer.
 
 ### Web Development
-![My Skills](https://skills.thijs.gg/icons?i=html,css,js,typescript,react,jest,redux,docker,mysql,nodejs,dotnet,cs)
+![My Skills](https://skills.thijs.gg/icons?i=html,css,js,typescript,react,jest,redux,docker,mysql,mongodb,nodejs,dotnet,cs)
 
 ### Game Development
 ![My Skills](https://skills.thijs.gg/icons?i=unity,cs)
-
-### Learning
-![My Skills](https://skills.thijs.gg/icons?i=mongodb,sass)
 
 </details>
 
