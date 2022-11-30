@@ -3,7 +3,7 @@
 
 # 👋 Bem vindo ao meu GitHub
 
-+ Desenvolvedor Web Fullstack, me especializando em Backend.
++ Desenvolvedor Web Fullstack, especializado em Back-End.
 + Desenvolvedor de Jogos Unity.
 
 ### Desenvolvimento Web
@@ -19,7 +19,7 @@
 
 # 👋 Welcome to my GitHub
 
-+ Fullstack Web Developer, currently specializing in Backend.
++ Fullstack Web Developer, specialized in Back-End.
 + Unity Game Developer.
 
 ### Web Development
