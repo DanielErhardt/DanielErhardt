@@ -78,7 +78,8 @@
 
 <br />
 
-<span>
+<!-- <span>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielErhardt&show_icons=true&theme=vision-friendly-dark" alt="DanielErhardt' stats"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielErhardt&layout=compact&theme=vision-friendly-dark" alt="DanielErhardt' most languages"/>
 </span>
+ -->
